@@ -2,8 +2,6 @@
 
 A full-stack restaurant reservation management system built with FastAPI and React.
 
-![App Screenshot](./screenshots/customer-view.png)
-
 ## 📋 Table of Contents
 - [Features](#features)
 - [Tech Stack](#tech-stack)
@@ -51,16 +49,20 @@ A full-stack restaurant reservation management system built with FastAPI and Rea
 ## 📸 Screenshots
 
 ### Customer View
-![Customer Interface](./screenshots/customer-view.png)
+![WhatsApp Image 2025-12-14 at 16 21 55 (2)](https://github.com/user-attachments/assets/fa0b9489-1d80-4e00-8a9f-e9ce950d3e9e)
+
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![WhatsApp Image 2025-12-14 at 16 21 54 (2)](https://github.com/user-attachments/assets/03ea4522-0a85-4bdc-be93-f03fbb3fd395)
+
 
 ### Admin Login
-![Admin Login](./screenshots/admin-login.png)
+![WhatsApp Image 2025-12-14 at 16 21 55 (1)](https://github.com/user-attachments/assets/1775f97b-ab97-4eeb-8d9c-06f397c5b97f)
+
 
 ### Table Grid
-![Table Grid](./screenshots/table-grid.png)
+<img width="824" height="386" alt="image" src="https://github.com/user-attachments/assets/5eac1697-2e90-43c4-9936-3e1a6f98a7c4" />
+
 
 ## 🚀 Quick Start
 
